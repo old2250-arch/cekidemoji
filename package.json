@@ -1,0 +1,12 @@
+{
+  "name": "bot-cekidemoji-vercel",
+  "version": "1.0.0",
+  "description": "Bot Telegram Cek ID Emoji untuk Vercel",
+  "main": "api/webhook.js",
+  "scripts": {
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
